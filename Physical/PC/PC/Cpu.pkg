@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<?AutomationStudio Version=4.5.2.102?>
+<?AutomationStudio FileVersion="4.9"?>
 <Cpu xmlns="http://br-automation.co.at/AS/Cpu">
   <Objects>
     <Object Type="File" Description="Permanente Variablen">Cpu.per</Object>
@@ -21,6 +21,7 @@
     <AutomationRuntime Version="D4.52" />
     <Build GccVersion="4.1.2" />
     <DefaultTargetMemory Tasks="UserROM" />
-    <Vc FirmwareVersion="V4.52.0" />
+    <Safety SafetyRelease="0.0" />
+    <Vc FirmwareVersion="V4.72.2" />
   </Configuration>
 </Cpu>
